@@ -2,7 +2,7 @@
 Data-driven analysis of bank loan applications to uncover insights, trends, and risk patterns using visualization and data analytics.Using SQL for data extraction and transformation, and Power BI for visualization, the goal is to derive actionable insights for better loan management and decision-making.
 Analyze loan applications and approvals.Identify default risks and high-risk customers.Track repayment patterns and overdue accounts.Provide visual dashboards for decision-makers.
 
-Tools                                                                                                                                                                                                                            SQL → Data cleaning, aggregation, and complex queries (joins, window functions, CTEs).
+Tools                                                                                                                                                        SQL → Data cleaning, aggregation, and complex queries (joins, window functions, CTEs).
 Power BI → Interactive dashboards with KPIs, filters, and drilldowns.
 
 Why SQL?
