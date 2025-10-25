@@ -16,7 +16,7 @@ The project covers the process from data extraction and transformation using SQL
 - **Loan Status Analysis**: Visualize the distribution of loans based on their status (approved, rejected, pending)  
 - **Interest Rate Trends**: Analyze variation in interest rates over time and across different loan types  
 - **Payment Delinquency**: Identify patterns in payment delays and their correlation with loan defaults  
-- **Demographic Insights**: Examine how customer demographics influence loan approval and repayment behaviors  
+- **Demographic Insights**: Examine how customer demographics influence loan approval and repayment behaviors
 - **Interactive Filters**: Use slicers and filters to drill down into specific data segments  
 
 ## 📷 Dashboard 
